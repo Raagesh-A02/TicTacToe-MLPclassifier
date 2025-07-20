@@ -1,0 +1,17 @@
+TL,TM,TR,ML,MM,MR,BL,BM,BR,BestMove
+x,o,x,o,x,b,x,o,b,5
+x,x,o,o,x,o,b,b,b,6
+b,x,o,b,o,x,x,b,o,0
+x,b,o,x,o,x,o,x,o,1
+x,x,x,o,o,b,b,b,b,5
+b,b,b,x,x,o,o,x,o,0
+x,o,x,x,o,o,b,b,b,6
+b,b,b,b,x,b,o,o,x,4
+o,x,b,o,x,x,b,b,o,2
+x,x,o,o,o,x,x,b,b,7
+x,x,b,b,o,o,o,x,x,2
+x,o,x,o,x,o,b,b,b,6
+x,x,o,x,o,o,b,b,b,6
+o,x,o,x,o,x,x,o,b,8
+b,o,b,o,x,x,x,b,o,0
+x,x,x,b,o,b,o,b,b,3
